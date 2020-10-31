@@ -3,13 +3,11 @@
 
 Updates:
 
-Need solid plan for wholesome garden, physical & technological
-
-Brought Trees, new tools
-
-Field is moed
-Dani-nator MVP
-10 pull ups new life record
+  Need solid plan for wholesome garden, physical & technological
+  Brought Trees, new tools
+  Field is moed
+  Dani-nator MVP
+  10 pull ups new life record
 
 27.10.20 - Conv with Ami - TODO:
 Make table of projects - What - Who - How

@@ -10,7 +10,7 @@ Updates:<br>
   10 pull ups new life record<br>
 <br>
 
-##Current
+## Current
 |    | What | Who | How |
 | ------------- | ------------- | ------- | ------- |
 | *WholesomeGarden*  | agriculture : education : music <br> Base of operations  |
@@ -19,7 +19,7 @@ Updates:<br>
 | *Dani-lator*  | easy lyric translations  |
 | *Resumé*  | Show what you got, get hired for cool positions     |
 
-##Upcoming
+## Upcoming
 |    | What | Who | How |
 | ------------- | ------------- | ------- | ------- |
 | *Nova*  | mL based water autofiller  |

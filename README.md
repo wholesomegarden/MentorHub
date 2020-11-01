@@ -22,7 +22,7 @@
 
 ## Current
 |    | What is it | Who / scale | How / Needs | references |
-| ------------- | ------------- | ------- | ------- |
+| ------------- | ------------- | ------- | ------- | ------ |
 | *WholesomeGarden*  | agriculture : education : music <br> Base of operations  |
 | *wholesome.garden*   | Open source technologies for global benefits  |
 | *MentorHub*  | template for traking progress with mentors  |
@@ -32,7 +32,7 @@
 
 ## Upcoming
 |    | What is it | Who / scale | How / Needs | references |
-| ------------- | ------------- | ------- | ------- |
+| ------------- | ------------- | ------- | ------- | ------ |
 | *Nova*  | mL based water autofiller  |
 | *GlobalData framework*   | global dev for devs  |
 | *MagicKey*  | harmony for everyone  |
@@ -43,7 +43,7 @@
 
 ## Future
 |    | What is it | Who / scale | How / Needs | references |
-| ------------- | -------------------------------- | ------- | ------- |
+| ------------- | -------------------------------- | ------- | ------ | ------- |
 | *AkeyO*  | get what you what - live reverse auction marketplace     |
 | *Fade player*  | spike for music  |
 | *Star browser*  | browser of the future  |

@@ -13,12 +13,12 @@
 
 ## Upcoming:<br>
 <br>
-  env Cleanup 
+  Clean car<br>
+  env Cleanup <br>
   Collect income<br>
   Make p&l<br>
   Get Greenhouses<br>
   Go to Almost & Go to regional office <br>
-  Clean car<br>
 <br>
 
 ## Current
@@ -39,7 +39,7 @@
 | *MagicKey*  | harmony for everyone  |
 | *ArtShop*  | side income  |
 | *Interviews* | get a job |
-| *Global Timeline* | Vis data |
+| *Global Timeline* | Visual Data analytics |
 
 
 ## Future

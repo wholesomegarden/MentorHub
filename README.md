@@ -1,6 +1,5 @@
 # MentorHub
-## A place to keep in touch with mentors
-### open template
+## A place to keep in touch with mentors - open template
 
 ## Updates:<br>
 <br>
@@ -22,7 +21,7 @@
 <br>
 
 ## Current
-|    | What | Who | How |
+|    | What is it | Who / scale | How / Needs | references |
 | ------------- | ------------- | ------- | ------- |
 | *WholesomeGarden*  | agriculture : education : music <br> Base of operations  |
 | *wholesome.garden*   | Open source technologies for global benefits  |
@@ -32,7 +31,7 @@
 | *Studio* | Musical Paradise |
 
 ## Upcoming
-|    | What | Who | How |
+|    | What is it | Who / scale | How / Needs | references |
 | ------------- | ------------- | ------- | ------- |
 | *Nova*  | mL based water autofiller  |
 | *GlobalData framework*   | global dev for devs  |
@@ -43,12 +42,11 @@
 
 
 ## Future
-|    | What | Who | How |
-| ------------- | -------------------------------- | ------- | ------- |,
+|    | What is it | Who / scale | How / Needs | references |
+| ------------- | -------------------------------- | ------- | ------- |
 | *AkeyO*  | get what you what - live reverse auction marketplace     |
 | *Fade player*  | spike for music  |
 | *Star browser*  | browser of the future  |
-
 | *JedEye* | what you see is what you get ide &designer |
 | *People*  | spike for messages  |
 

@@ -1,7 +1,8 @@
 # MentorHub
 ## A place to keep in touch with mentors
+### open template
 
-Updates:<br>
+## Updates:<br>
 <br>
   Need solid plan for wholesome garden, physical & technological<br>
   Brought Trees, new tools<br>
@@ -10,13 +11,14 @@ Updates:<br>
   10 pull ups new life record<br>
 <br>
 
-Upcoming:<br>
+## Upcoming:<br>
 <br>
+  env Cleanup 
   Collect income<br>
   Make p&l<br>
   Get Greenhouses<br>
-  Dani-nator MVP<br>
-  10 pull ups new life record<br>
+  Go to Almost & Go to regional office <br>
+  Clean car<br>
 <br>
 
 ## Current
@@ -27,17 +29,28 @@ Upcoming:<br>
 | *MentorHub*  | template for traking progress with mentors  |
 | *Dani-lator*  | easy lyric translations  |
 | *Resumé*  | Show what you got, get hired for cool positions     |
+| *Studio* | Musical Paradise |
 
 ## Upcoming
 |    | What | Who | How |
 | ------------- | ------------- | ------- | ------- |
 | *Nova*  | mL based water autofiller  |
 | *GlobalData framework*   | global dev for devs  |
-| *Fade player*  | spike for music  |
-| *People*  | spike for music  |
-| *Star browser*  | browser of the future  |
+| *MagicKey*  | harmony for everyone  |
+| *ArtShop*  | side income  |
+| *Interviews* | get a job |
+| *Global Timeline* | Vis data |
+
+
+## Future
+|    | What | Who | How |
+| ------------- | -------------------------------- | ------- | ------- |,
 | *AkeyO*  | get what you what - live reverse auction marketplace     |
+| *Fade player*  | spike for music  |
+| *Star browser*  | browser of the future  |
+
 | *JedEye* | what you see is what you get ide &designer |
+| *People*  | spike for messages  |
 
 
 27.10.20 - Conv with Ami - TODO:<br>

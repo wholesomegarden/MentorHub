@@ -13,11 +13,12 @@
 ## Upcoming:<br>
 <br>
   Clean car<br>
+  Go to Almog & Go to regional office - notes, greenhouses, plan, Wednesday<br>
   env Cleanup <br>
   Collect income<br>
   Make p&l<br>
   Get Greenhouses<br>
-  Go to Almost & Go to regional office <br>
+  Get guitars <br>
 <br>
 
 ## Current
@@ -30,6 +31,7 @@
 | *Resumé*  | Show what you got, get hired for cool positions     |
 | *Studio* | Musical Paradise |
 
+
 ## Upcoming
 |    | What is it | Who / scale | How / Needs | references |
 | ------------- | ------------- | ------- | ------- | ------ |
@@ -41,6 +43,8 @@
 | *Global Timeline* | Visual Data analytics |
 
 
+
+
 ## Future
 |    | What is it | Who / scale | How / Needs | references |
 | ------------- | -------------------------------- | ------- | ------ | ------- |
@@ -49,7 +53,16 @@
 | *Star browser*  | browser of the future  |
 | *JedEye* | what you see is what you get ide &designer |
 | *People*  | spike for messages  |
+| *Om Air*  | smoke air  |
 
+
+## Wholesome Garden
+|    | What is it | Who / scale | How / Needs | references |
+| ------------- | -------------------------------- | ------- | ------ | ------- |
+| *Agriculture*  | live the land - grow goods     |
+| *Hosting*  | Miftan, Forest Garden, Community Garden  |
+| *Chai shop*  | hot drink & chill  |
+| *Facilities* | family, volunteers, campers |
 
 27.10.20 - Conv with Ami - TODO:<br>
 ✓ Make table of projects - What - Who - How<br>

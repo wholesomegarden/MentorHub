@@ -1,6 +1,24 @@
 # MentorHub
 ## A place to keep in touch with mentors - open template
 
+## General TODO:
+fix generator
+save spot in course
+return ami's cart
+
+## Idea - Daily builds
+order in website
+donation button
+
+### revisit old projects:
+expando object
+global data new + old
+schedule app
+modern sudoku solver
+global data - expando object
+
+startup flow experience method
+
 ## Updates:<br>
 <br>
   Need solid plan for wholesome garden, physical & technological<br>
